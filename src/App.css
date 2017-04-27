@@ -1,0 +1,39 @@
+body {
+    padding-top: 40px;
+}
+
+.text {
+    padding: 15px;
+}
+
+.input {
+    padding-right: 15px;
+}
+
+.well {
+    font-family: monospace;
+}
+
+.well > p > span {
+    color: #777;
+}
+
+.pagination {
+    margin: 0;
+}
+
+.pagination > li a {
+    width: 150px;
+    font-size: large;
+}
+
+.pagination > li a span {
+    font-size: 1.5em;
+}
+
+.react-spinner {
+    position: absolute;
+}
+.react-spinner_bar {
+    background-color: black;
+}
